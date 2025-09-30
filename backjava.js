@@ -20,3 +20,4 @@ function generateHexColor() {
 function generateRandomNumber() {
     return Math.floor(Math.random() * hex.length);
 }
+
